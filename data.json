@@ -1,646 +1,1058 @@
 [
     {
         "Soru": "Osmanlı Devleti hangi tarihte kurulmuştur?",
-        "cevap": "1302 (Halil İnalcık'ın Koyunhisar Savaşı'nı esas alan tezi)"
+        "cevap": "1302 (Halil İnalcık'ın Koyunhisar Savaşı'nı esas alan tezi)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Koyunhisar Savaşı'nın diğer adı nedir?",
-        "cevap": "Bafeus (Bapheon) Savaşı"
+        "cevap": "Bafeus (Bapheon) Savaşı",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Türklerin (Büyük Selçuklu Devleti'nin) Bizans ile yaptığı ilk büyük savaş hangisidir?",
-        "cevap": "Pasinler Savaşı (1048)"
+        "cevap": "Pasinler Savaşı (1048)",
+        "Unite": "İslam Medeniyetinin Doğuşu ve İlk Türk İslam Devletleri",
+        "Tema": "Türklerin İslamiyet'i Kabulü ve İlk Türk İslam Devletleri"
     },
     {
         "Soru": "Osmanlı Devleti'nin Bizans ile yaptığı ilk savaş hangisidir?",
-        "cevap": "Koyunhisar (Bafeus) Savaşı"
+        "cevap": "Koyunhisar (Bafeus) Savaşı",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Koyunhisar (Bafeus) Savaşı hangi padişah döneminde yapılmıştır?",
-        "cevap": "Osman Gazi"
+        "cevap": "Osman Gazi",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı tarihinden alınan ilk vergi hangisidir?",
-        "cevap": "Baç Vergisi (Pazar Vergisi)"
+        "cevap": "Baç Vergisi (Pazar Vergisi)",
+        "Unite": "Devletleşme Sürecinde Savaşçılar ve Askerler",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "Baç Vergisi nedir?",
-        "cevap": "Osmanlı'da çarşı ve pazar esnafından alınan ilk vergidir."
+        "cevap": "Osmanlı'da çarşı ve pazar esnafından alınan ilk vergidir.",
+        "Unite": "Devletleşme Sürecinde Savaşçılar ve Askerler",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "İlk Osmanlı bakır parası hangi dönemde bastırılmıştır?",
-        "cevap": "Osman Gazi"
+        "cevap": "Osman Gazi",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osman Gazi döneminde bastırılan ve ilk Osmanlı parası olma özelliği taşıyan para birimi hangisidir?",
-        "cevap": "Bakır para (Mangır)"
+        "cevap": "Bakır para (Mangır)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "İlk bakır parayı basan Osmanlı hükümdarı kimdir?",
-        "cevap": "Osman Gazi"
+        "cevap": "Osman Gazi",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Tımar sisteminin temeli sayılan Dirlik uygulaması nedir?",
-        "cevap": "Devlete ait olan toprakların, hizmet karşılığı asker ve memurlara dağıtılması sistemidir."
+        "cevap": "Devlete ait olan toprakların, hizmet karşılığı asker ve memurlara dağıtılması sistemidir.",
+        "Unite": "Devletleşme Sürecinde Savaşçılar ve Askerler",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "Osmanlı Devleti'nin aşiretten beyliğe geçiş yaptığı dönem hangisidir?",
-        "cevap": "Osman Gazi Dönemi"
+        "cevap": "Osman Gazi Dönemi",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "İlk Osmanlı kadısı (hâkimi) kimdir?",
-        "cevap": "Dursun Fakih"
+        "cevap": "Dursun Fakih",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Kuşatması Osman Gazi döneminde başlayan, ancak Orhan Gazi döneminde fethedilerek başkent yapılan şehir neresidir?",
-        "cevap": "Bursa"
+        "cevap": "Bursa",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Maltepe Savaşı'nın diğer adı nedir?",
-        "cevap": "Palekanon Savaşı"
+        "cevap": "Palekanon Savaşı",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Maltepe (Palekanon) Savaşı'nın önemi nedir?",
-        "cevap": "Bizans'ın Anadolu'daki topraklarıyla (İznik ve İzmit ile) bağlantısı tamamen kesilmiştir."
+        "cevap": "Bizans'ın Anadolu'daki topraklarıyla (İznik ve İzmit ile) bağlantısı tamamen kesilmiştir.",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Maltepe (Palekanon) Savaşı hangi padişah döneminde yapılmıştır?",
-        "cevap": "Orhan Gazi"
+        "cevap": "Orhan Gazi",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı Devleti'ne katılan ilk Türk beyliği hangisidir?",
-        "cevap": "Karesioğulları Beyliği"
+        "cevap": "Karesioğulları Beyliği",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Bizans'ta imparator olmak isteyip Orhan Gazi'den askeri yardım talep eden Bizanslı devlet adamı kimdir?",
-        "cevap": "Yoannis Kantakuzenos"
+        "cevap": "Yoannis Kantakuzenos",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Orhan Gazi'nin Kantakuzenos'a yardım etmesi karşılığında Osmanlı'ya üs olarak verilen kale hangisidir?",
-        "cevap": "Çimpe Kalesi"
+        "cevap": "Çimpe Kalesi",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Çimpe Kalesi'nin stratejik önemi nedir?",
-        "cevap": "Osmanlı'nın Rumeli'deki ilk toprak parçasıdır ve Avrupa seferlerinde askeri üs olarak kullanılmıştır."
+        "cevap": "Osmanlı'nın Rumeli'deki ilk toprak parçasıdır ve Avrupa seferlerinde askeri üs olarak kullanılmıştır.",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı Devleti'ndeki ilk düzenli ordu hangisidir?",
-        "cevap": "Yaya ve Müsellem Ordusu"
+        "cevap": "Yaya ve Müsellem Ordusu",
+        "Unite": "Devletleşme Sürecinde Savaşçılar ve Askerler",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "Yaya ve Müsellemler kimlerdir?",
-        "cevap": "Orhan Gazi döneminde kurulan Osmanlı'nın ilk düzenli piyade ve süvari birlikleridir."
+        "cevap": "Orhan Gazi döneminde kurulan Osmanlı'nın ilk düzenli piyade ve süvari birlikleridir.",
+        "Unite": "Devletleşme Sürecinde Savaşçılar ve Askerler",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "Yaya ve Müsellem ordusu hangi padişah döneminde kurulmuştur?",
-        "cevap": "Orhan Gazi"
+        "cevap": "Orhan Gazi",
+        "Unite": "Devletleşme Sürecinde Savaşçılar ve Askerler",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "İlk Osmanlı müderrisi (medrese hocası/profesörü) kimdir?",
-        "cevap": "Davûd-i Kayserî"
+        "cevap": "Davûd-i Kayserî",
+        "Unite": "Devletleşme Sürecinde Savaşçılar ve Askerler",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "İlk Osmanlı medresesi olan İznik Medresesi'ne atanan ilk müderris kimdir?",
-        "cevap": "Davûd-i Kayserî"
+        "cevap": "Davûd-i Kayserî",
+        "Unite": "Devletleşme Sürecinde Savaşçılar ve Askerler",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "Müderris ne demektir?",
-        "cevap": "Medreselerde ders veren, günümüzün profesör/öğretmen statüsündeki din ve bilim insanıdır."
+        "cevap": "Medreselerde ders veren, günümüzün profesör/öğretmen statüsündeki din ve bilim insanıdır.",
+        "Unite": "Devletleşme Sürecinde Savaşçılar ve Askerler",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "İlk gümüş sikke (Akçe) hangi padişah döneminde bastırılmıştır?",
-        "cevap": "Orhan Gazi"
+        "cevap": "Orhan Gazi",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Orhan Gazi döneminde bastırılan ve devletin ekonomik olarak güçlendiğini gösteren para türü hangisidir?",
-        "cevap": "Gümüş para (Akçe)"
+        "cevap": "Gümüş para (Akçe)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Ömrü boyunca girdiği hiçbir savaşı kaybetmeyen ve I. Kosova Savaşı sonrasında şehit edilen Osmanlı padişahı kimdir?",
-        "cevap": "I. Murad (Hüdavendigâr)"
+        "cevap": "I. Murad (Hüdavendigâr)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı'yı beylikten devlet teşkilatına ulaştırıp sınırları genişleterek bir imparatorluk modeline taşıyan padişah kimdir?",
-        "cevap": "I. Murad"
+        "cevap": "I. Murad",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Edirne'nin fethine zemin hazırlayan Sazlıdere Savaşı kiminle yapılmıştır?",
-        "cevap": "Bizans ve Bulgar ittifakı"
+        "cevap": "Bizans ve Bulgar ittifakı",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Sazlıdere Savaşı hangi padişah döneminde yapılmıştır?",
-        "cevap": "I. Murad"
+        "cevap": "I. Murad",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Sazlıdere Savaşı'ndan sonra fethedilerek Osmanlı'nın yeni başkenti yapılan şehir neresidir?",
-        "cevap": "Edirne"
+        "cevap": "Edirne",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Sazlıdere Savaşı ve Edirne'nin fethi hangi ittifakın kurulmasına neden olmuştur?",
-        "cevap": "İlk Haçlı İttifakı (Sırpsındığı Savaşı'na yol açmıştır)"
+        "cevap": "İlk Haçlı İttifakı (Sırpsındığı Savaşı'na yol açmıştır)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Sazlıdere Savaşı ile Bizans'ın hangi bölgeyle olan coğrafi bağlantısı kesilmiştir?",
-        "cevap": "Balkanlar"
+        "cevap": "Balkanlar",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Bizans'ın Balkanlar ile olan doğrudan kara bağlantısını kesen savaş hangisidir?",
-        "cevap": "Sazlıdere Savaşı"
+        "cevap": "Sazlıdere Savaşı",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Sırpsındığı Savaşı kimlere karşı yapılmıştır?",
-        "cevap": "Haçlı İttifakı'na (Macar, Sırp, Bulgar, Eflak ve Bosna güçleri) karşı yapılmıştır."
+        "cevap": "Haçlı İttifakı'na (Macar, Sırp, Bulgar, Eflak ve Bosna güçleri) karşı yapılmıştır.",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Sırpsındığı Savaşı hangi padişah döneminde yapılmıştır?",
-        "cevap": "I. Murad"
+        "cevap": "I. Murad",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı Devleti'nin Haçlı ittifakına karşı kazandığı ilk zafer hangisidir?",
-        "cevap": "Sırpsındığı Savaşı"
+        "cevap": "Sırpsındığı Savaşı",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı Balkanlar'da Haçlılarla savaşırken, Anadolu'da Osmanlı topraklarına (Beyşehir'e) saldıran Türk beyliği hangisidir?",
-        "cevap": "Karamanoğulları Beyliği"
+        "cevap": "Karamanoğulları Beyliği",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Mustafa Kemal Atatürk'ün Büyük Taarruz'un ardından Yunan ordusunun imha edilmesine atfen 'Rumsındığı' olarak adlandırdığı tarihi olay hangisidir?",
-        "cevap": "Başkomutanlık Meydan Muharebesi"
+        "cevap": "Başkomutanlık Meydan Muharebesi",
+        "Unite": "Atatürkçülük ve Çağdaşlaşan Türkiye",
+        "Tema": "Atatürkçülük ve Çağdaşlaşan Türkiye"
     },
     {
         "Soru": "Sırpsındığı Savaşı'nın intikamını almak isteyen Sırplara karşı kazanılan ve 'II. Sırpsındığı' olarak da anılan savaş hangisidir?",
-        "cevap": "Çirmen Savaşı"
+        "cevap": "Çirmen Savaşı",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Çirmen Savaşı kimlerle yapılmıştır?",
-        "cevap": "Sırp prensleri ve müttefikleri"
+        "cevap": "Sırp prensleri ve müttefikleri",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Çirmen Savaşı hangi padişah döneminde yapılmıştır?",
-        "cevap": "I. Murad"
+        "cevap": "I. Murad",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı Devleti'nin Balkanlar'da Haçlı-Sırp ittifakına karşı aldığı ilk küçük yenilgi (pusu) hangisidir?",
-        "cevap": "Ploşnik Bozgunu (1388)"
+        "cevap": "Ploşnik Bozgunu (1388)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı tarihinde ilk kez savaş topu (sesinden ve ürkütücü özelliğinden yararlanarak korkutma amacıyla) hangi savaşta kullanılmıştır?",
-        "cevap": "I. Kosova Savaşı (1389)"
+        "cevap": "I. Kosova Savaşı (1389)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Savaş meydanında şehit edilen ilk ve tek Osmanlı padişahı kimdir?",
-        "cevap": "I. Murad (Hüdavendigâr)"
+        "cevap": "I. Murad (Hüdavendigâr)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "I. Kosova Savaşı'nın kazanılmasından sonra savaş meydanını gezerken yaralı bir Sırp askeri olan Miloş Obiliç tarafından şehit edilen padişah kimdir?",
-        "cevap": "I. Murad"
+        "cevap": "I. Murad",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "I. Murad'ın şehit düştüğü ve Haçlılara karşı büyük bir zafer kazanılan I. Kosova Savaşı hangi tarihte yapılmıştır?",
-        "cevap": "1389"
+        "cevap": "1389",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "I. Kosova Savaşı'nda Osmanlı ordusunun ilk kez top kullanmasının temel askeri amacı nedir?",
-        "cevap": "Düşman askerlerini ve atlarını çıkan güçlü sesle korkutmak, Haçlı saflarında panik yaratmak."
+        "cevap": "Düşman askerlerini ve atlarını çıkan güçlü sesle korkutmak, Haçlı saflarında panik yaratmak.",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Ploşnik Bozgunu'nun intikamını almak ve Türkleri Balkanlar'dan tamamen atmak isteyen Haçlı İttifakı ile yapılan büyük meydan savaşı hangisidir?",
-        "cevap": "I. Kosova Savaşı"
+        "cevap": "I. Kosova Savaşı",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı tarihinde sancağa çıkarak yetişen ve bu usulle tahta geçen ilk padişah kimdir?",
-        "cevap": "I. Murad"
+        "cevap": "I. Murad",
+        "Unite": "Devletleşme Sürecinde Savaşçılar ve Askerler",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "Merkezi otoriteyi güçlendirmek amacıyla veraset sistemini değiştirerek 'Devlet, padişah ve oğullarının malıdır' anlayışını getiren Osmanlı hükümdarı kimdir?",
-        "cevap": "I. Murad"
+        "cevap": "I. Murad",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "I. Murad'ın veraset sisteminde yaptığı değişikliğin temel amacı nedir?",
-        "cevap": "Taht kavgalarını azaltmak ve merkezi otoriteyi güçlendirmek."
+        "cevap": "Taht kavgalarını azaltmak ve merkezi otoriteyi güçlendirmek.",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Sınırların batı yönünde hızla genişlemesi üzerine I. Murad döneminde kurulan ve merkezi Manastır olan ilk beylerbeylik hangisidir?",
-        "cevap": "Rumeli Beylerbeyliği"
+        "cevap": "Rumeli Beylerbeyliği",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Rumeli Beylerbeyliği hangi padişah döneminde ve neden kurulmuştur?",
-        "cevap": "I. Murad döneminde, Balkanlar'da genişleyen toprakların yönetimini kolaylaştırmak amacıyla kurulmuştur."
+        "cevap": "I. Murad döneminde, Balkanlar'da genişleyen toprakların yönetimini kolaylaştırmak amacıyla kurulmuştur.",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Balkanlar'da fethedilen topraklara Anadolu'dan getirilen Türkmen aileleri yerleştirerek bölgeyi Türkleştirmeyi ve İslamlaştırmayı amaçlayan politikanın adı nedir?",
-        "cevap": "İskan Politikası (Yerleştirme)"
+        "cevap": "İskan Politikası (Yerleştirme)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "I. Murad döneminde sistemli hale getirilen İskan Politikası'nın temel amacı nedir?",
-        "cevap": "Balkanlar'da kalıcılığı sağlamak, fethedilen yerlerin güvenliğini korumak ve üretimi süreklileştirmek."
+        "cevap": "Balkanlar'da kalıcılığı sağlamak, fethedilen yerlerin güvenliğini korumak ve üretimi süreklileştirmek.",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı'nın profesyonel ve merkezi ordusu olan Kapıkulu Ocağı'nın (Yeniçeri Ocağı) temelleri hangi padişah döneminde atılmıştır?",
-        "cevap": "I. Murad"
+        "cevap": "I. Murad",
+        "Unite": "Devletleşme Sürecinde Savaşçılar ve Askerler",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "Savaş esirlerinin beşte birinin asker olarak yetiştirilmesi esasına dayanan ve Kapıkulu Ocağı'nın temelini oluşturan sistem hangisidir?",
-        "cevap": "Pençik Sistemi"
+        "cevap": "Pençik Sistemi",
+        "Unite": "Devletleşme Sürecinde Savaşçılar ve Askerler",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "I. Murad döneminde ilk kez kurulan, devletin mali işlerinden ve bütçesinden sorumlu olan divan üyesi kimdir?",
-        "cevap": "Defterdar (Maliye Bakanı)"
+        "cevap": "Defterdar (Maliye Bakanı)",
+        "Unite": "Devletleşme Sürecinde Savaşçılar ve Askerler",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "Osmanlı Devleti'nde adalet ve eğitim işlerinden sorumlu olan, divandaki büyük davalara bakan Kazaskerlik makamı ilk kez hangi padişah döneminde kurulmuştur?",
-        "cevap": "I. Murad"
+        "cevap": "I. Murad",
+        "Unite": "Devletleşme Sürecinde Savaşçılar ve Askerler",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "I. Murad döneminde temelleri atılan, devlete ait toprakların (dirlik) işletilerek askeri ve ekonomik bir sistem oluşturulmasını sağlayan yapı hangisidir?",
-        "cevap": "Tımar Sistemi"
+        "cevap": "Tımar Sistemi",
+        "Unite": "Devletleşme Sürecinde Savaşçılar ve Askerler",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "Tımar Sistemi'nin devlete sağladığı en büyük askeri fayda nedir?",
-        "cevap": "Hazineye yük olmadan, her an savaşa hazır büyük bir eyalet ordusu (Cebelü/Tımarlı Sipahi) yetiştirilmesi."
+        "cevap": "Hazineye yük olmadan, her an savaşa hazır büyük bir eyalet ordusu (Cebelü/Tımarlı Sipahi) yetiştirilmesi.",
+        "Unite": "Devletleşme Sürecinde Savaşçılar ve Askerler",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
-        "Soru": "Tahta çıktığında askerlerin sadakatini güvence altına almak amacıyla Osmanlı tarihinde ilk kez cülus bahşişi dağıtan padişah kimdir?",
-        "cevap": "I. Bayezid (Yıldırım Bayezid)"
+        "Soru": "Tahta çıktığında askerlerin sadakatini güvence altına anlamıyla Osmanlı tarihinde ilk kez cülus bahşişi dağıtan padişah kimdir?",
+        "cevap": "I. Bayezid (Yıldırım Bayezid)",
+        "Unite": "Devletleşme Sürecinde Savaşçılar ve Askerler",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "Osmanlı tarihinde İstanbul'u ilk kez kuşatan ve bu amaçla şehri tam dört kez muhasara altına alan padişah kimdir?",
-        "cevap": "I. Bayezid (Yıldırım Bayezid)"
+        "cevap": "I. Bayezid (Yıldırım Bayezid)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "İstanbul kuşatmalarını daha etkili hale getirmek, Boğaz'ın kontrolünü sağlamak ve Karadeniz'den gelebilecek Bizans yardımlarını engellemek amacıyla inşa edilen Güzelce Hisar (Anadolu Hisarı) hangi padişah döneminde yapılmıştır?",
-        "cevap": "I. Bayezid (Yıldırım Bayezid)"
+        "cevap": "I. Bayezid (Yıldırım Bayezid)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "İstanbul'un kuşatılması sırasında Haçlıların Osmanlı topraklarına saldırması üzerine kuşatmanın kaldırılmasına neden olan büyük savaş hangisidir?",
-        "cevap": "Niğbolu Savaşı (1396)"
+        "cevap": "Niğbolu Savaşı (1396)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Niğbolu Savaşı'nda Haçlı ordusuna karşı kaleyi kahramanca savunan ve Yıldırım Bayezid savaşa yetişene kadar direnişin sembolü olan efsanevi Niğbolu kalesi komutanı kimdir?",
-        "cevap": "Doğan Bey"
+        "cevap": "Doğan Bey",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Yıldırım Bayezid'in Niğbolu Savaşı'nda Haçlı ordusunu büyük bir bozguna uğratması üzerine Abbasî halifesi tarafından kendisine verilen dünyaca ünlü unvan hangisidir?",
-        "cevap": "Sultân-ı İklîm-i Rûm (Anadolu Diyarının Sultanı)"
+        "cevap": "Sultân-ı İklîm-i Rûm (Anadolu Diyarının Sultanı)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Abbasî halifesinin Yıldırım Bayezid'e 'Sultân-ı İklîm-i Rûm' unvanını vermesinin Türk İslam dünyasındaki en önemli siyasi sonucu nedir?",
-        "cevap": "Osmanlı Devleti'nin İslam dünyasındaki saygınlığı artmış ve Anadolu Türk siyasi birliğini sağlama faaliyetleri meşruiyet kazanmıştır."
+        "cevap": "Osmanlı Devleti'nin İslam dünyasındaki saygınlığı artmış ve Anadolu Türk siyasi birliğini sağlama faaliyetleri meşruiyet kazanmıştır.",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı Devleti'nin tıp eğitimi ve sağlık hizmetlerini kurumsallaştırmak amacıyla Yıldırım Bayezid döneminde Bursa'da açılan ilk kapsamlı Osmanlı hastanesinin adı nedir?",
-        "cevap": "Yıldırım Darüşşifası (Bursa Darüşşifası)"
+        "cevap": "Yıldırım Darüşşifası (Bursa Darüşşifası)",
+        "Unite": "Devletleşme Sürecinde Savaşçılar ve Askerler",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "Yıldırım Bayezid'in İstanbul'u dördüncü kez kuşattığı esnada, doğudan gelen büyük bir tehlike nedeniyle kuşatmayı tamamen kaldırmak zorunda kaldığı tarihi olay hangisidir?",
-        "cevap": "Ankara Savaşı (1402) tehlikesi ve Timur'un Anadolu'ya girmesi."
+        "cevap": "Ankara Savaşı (1402) tehlikesi ve Timur'un Anadolu'ya girmesi.",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "1402 Ankara Savaşı'nda Timur'un ordusunda yer alan ve Osmanlı ordusundaki atlıların ve piyadelerin düzenini tamamen bozarak savaşın gidişatını değiştiren askeri unsur hangisidir?",
-        "cevap": "Zırhlı savaş filleri"
+        "cevap": "Zırhlı savaş filleri",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Ankara Savaşı sırasında, daha önce toprakları Yıldırım Bayezid tarafından Osmanlı'ya katılan Anadolu beyliklerinin askerleri ile Kara Tatarların saf değiştirerek Timur'un yanına geçmesi olayına askeri tarihte ne ad verilir?",
-        "cevap": "I. Mürted Olayı (Mürted Hava Üssü/Ovası adı bu ihanetten gelir)"
+        "cevap": "I. Mürted Olayı (Mürted Hava Üssü/Ovası adı bu ihanetten gelir)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Ankara Savaşı'nın kaybedilmesi ve Yıldırım Bayezid'in Timur'a esir düşmesiyle Osmanlı Devleti'nin yıkılma tehlikesi geçirdiği, şehzadeler arasında taht kavgalarının yaşandığı dönemin adı nedir?",
-        "cevap": "Fetret Devri (Fâsıla-i Saltanat / 1402-1413)"
+        "cevap": "Fetret Devri (Fâsıla-i Saltanat / 1402-1413)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Ankara Savaşı'ndan sonra Yıldırım Bayezid'in oğulları (Süleyman, İsa, Musa ve Mehmed) arasında 11 yıl süren taht kavgaları dönemine ne ad verilir?",
-        "cevap": "Fetret Devri (1402-1413)"
+        "cevap": "Fetret Devri (1402-1413)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Fetret Devri'nde kardeşlerine karşı verdiği taht mücadelesini kazanarak devleti mutlak bir yıkımdan kurtaran ve tek hükümdar olan şehzade kimdir?",
-        "cevap": "Çelebi Mehmed (I. Mehmed)"
+        "cevap": "Çelebi Mehmed (I. Mehmed)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Fetret Devri'ne son vererek devleti dağılmaktan kurtardığı için Osmanlı Devleti'nin 'İkinci Kurucusu' (Bânî-i Sânî) kabul edilen padişah kimdir?",
-        "cevap": "I. Mehmed (Çelebi Mehmed)"
+        "cevap": "I. Mehmed (Çelebi Mehmed)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "I. Mehmed'e tarihçiler tarafından 'Bânî-i Sânî' unvanının verilmesinin temel sebebi nedir?",
-        "cevap": "Fetret Devri'ne son vererek merkezi otoriteyi yeniden sağlaması ve devleti ikinci kez ayağa kaldırmasıdır."
+        "cevap": "Fetret Devri'ne son vererek merkezi otoriteyi yeniden sağlaması ve devleti ikinci kez ayağa kaldırmasıdır.",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Ankara Savaşı ile dağılan Anadolu Türk Siyasi Birliği'ni (ATSB) yeniden sağlamak için I. Mehmed döneminde Osmanlı topraklarına ilk katılan beylik hangisidir?",
-        "cevap": "Saruhanolları Beyliği"
+        "cevap": "Saruhanolları Beyliği",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı Devleti'nin denizlerdeki gücünü test eden, Venedikliler ile yapılan tarihteki ilk deniz savaşı hangisidir?",
-        "cevap": "Çalı Bey (Güreş) Savaşı (1416)"
+        "cevap": "Çalı Bey (Güreş) Savaşı (1416)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Venediklilere karşı yapılan ilk deniz savaşında Osmanlı donanmasını komuta eden ve bu savaşta kahramanca çarpışarak şehit düşen denizci kimdir?",
-        "cevap": "Çalı Bey"
+        "cevap": "Çalı Bey",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı Devleti'nin Venediklilerle yaptığı ilk deniz savaşını kaybetmesinin temel askeri sebebi nedir?",
-        "cevap": "Osmanlı donanmasının henüz Venedik deniz gücüyle rekabet edebilecek askeri ve teknik tecrübeye sahip olmaması."
+        "cevap": "Osmanlı donanmasının henüz Venedik deniz gücüyle rekabet edebilecek askeri ve teknik tecrübeye sahip olmaması.",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Timur'un Ankara Savaşı'ndan sonra Semerkand'a götürdüğü, ancak daha sonra serbest kalarak I. Mehmed döneminde Bizans ve saltanat iddiacıları tarafından desteklenip isyan ettirilen Yıldırım Bayezid'in oğlu kimdir?",
-        "cevap": "Mustafa Çelebi (Düzmece Mustafa)"
+        "cevap": "Mustafa Çelebi (Düzmece Mustafa)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "I. Mehmed'in, kardeşi Mustafa Çelebi'nin isyanını bastırmasına rağmen halk ve ordu nezdinde onun 'gerçek şehzade olmadığı' algısını yaratmak için ortaya attığı siyasi söylem nedir?",
-        "cevap": "İsyanı itibarsızlaştırmak için ona 'Düzmece Mustafa' adını vermiştir."
+        "cevap": "İsyanı itibarsızlaştırmak için ona 'Düzmece Mustafa' adını vermiştir.",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Mustafa Çelebi (Düzmece Mustafa) İsyanı'nın temel niteliği nedir?",
-        "cevap": "Devletin merkezi yönetimini ele geçirmeyi hedefleyen siyasi bir taht kavgasıdır."
+        "cevap": "Devletin merkezi yönetimini ele geçirmeyi hedefleyen siyasi bir taht kavgasıdır.",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı tarihinde Rumeli'de (Balkanlar'da) patlak veren, ilk dini, siyasi, ekonomik, toplumsal ve sosyal nitelikli büyük ayaklanma hangisidir?",
-        "cevap": "Şeyh Bedrettin İsyanı"
+        "cevap": "Şeyh Bedrettin İsyanı",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
-        "Soru": "Fetret Devri'nin yarattığı otorite boşluğu, ekonomik çöküntü ve sosyal huzursuzluklardan beslenerek müritleri (Börklüce Mustafa ve Torlak Kemal) ile birlikte I. Mehmed döneminde devlete başkaldıran ünlü fikir adamı ve eski kazasker kimdir?",
-        "cevap": "Şeyh Bedrettin"
+        "Soru": "Fetret Devri'nin yarattığı otorite boşluğu, ekonomik çöküntü and sosyal huzursuzluklardan beslenerek müritleri (Börklüce Mustafa ve Torlak Kemal) ile birlikte I. Mehmed döneminde devlete başkaldıran ünlü fikir adamı ve eski kazasker kimdir?",
+        "cevap": "Şeyh Bedrettin",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı padişahlarının, İslamiyet'in kutsal şehirleri olan Mekke ve Medine'deki yerel halka, seyyidlere ve muhtaçlara her yıl düzenli olarak para, altın ve değerli hediyeler gönderdiği törensel kervan uygulamasının adı nedir?",
-        "cevap": "Surre Alayları"
+        "cevap": "Surre Alayları",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı tarihinde ilk kez I. Mehmed (Çelebi) döneminde başlatılan Surre Alayları uygulamasının temel amacı nedir?",
-        "cevap": "Kutsal topraklara (Hicaz bölgesine) verilen önemi göstermek, oradaki Müslümanların bağlılığını ve sevgisini kazanmak."
+        "cevap": "Kutsal topraklara (Hicaz bölgesine) verilen önemi göstermek, oradaki Müslümanların bağlılığını ve sevgisini kazanmak.",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "1402 Ankara Savaşı'ndan sonra savaş esiri alınamadığı için tıkanma noktasına gelen 'Pençik Sistemi' yerine, Hristiyan çocukların devlet hizmeti ve askerlik için yetiştirilmesini öngören hangi yeni sistem I. Mehmed döneminde sistemleştirilmeye başlanmıştır?",
-        "cevap": "Devşirme Sistemi"
+        "cevap": "Devşirme Sistemi",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı'nın askeri insan kaynağını Pençik Sistemi'nden Devşirme Sistemi'ne kaydırmasının temel tarihsel nedeni nedir?",
-        "cevap": "Ankara Savaşı ve Fetret Devri sürecinde fetihlerin durması nedeniyle ordunun asker ihtiyacını karşılayacak savaş esirinin bulunamaması."
+        "cevap": "Ankara Savaşı ve Fetret Devri sürecinde fetihlerin durması nedeniyle ordunun asker ihtiyacını karşılayacak savaş esirinin bulunamaması.",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı tarihinde hayırseverliği, yaptırdığı mimari eserler ve kurduğu vakıflar nedeniyle 'Hayır Babası' (Ebu'l-Hayrat) ve 'Koca Murad' unvanlarıyla anılan padişah kimdir?",
-        "cevap": "II. Murad"
+        "cevap": "II. Murad",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "II. Murad döneminde Balkanlar'da sınırları genişletmek amacıyla Bizans ve müttefiklerinden geri alınan iki kritik stratejik bölge hangileridir?",
-        "cevap": "Selanik ve Yanya"
+        "cevap": "Selanik ve Yanya",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı Devleti'nin Balkanlar'da Macarlara karşı üst üste aldığı yenilgiler sonucunda geri çekilmek zorunda kaldığı ve savunma hattı oluşturduğu dağ geçidi savaşının adı nedir?",
-        "cevap": "İzladi Derbendi (Yalvaç) Savaşı (1443)"
+        "cevap": "İzladi Derbendi (Yalvaç) Savaşı (1443)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Balkanlar'da üst üste alınan yenilgiler (İzladi Derbendi gibi) üzerine Osmanlı Devleti'nin Macarlarla imzalamak zorunda kaldığı, tarihteki ilk aleyhte (olumsuz) barış antlaşması hangisidir?",
-        "cevap": "Edirne-Segedin Antlaşması (1444)"
+        "cevap": "Edirne-Segedin Antlaşması (1444)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "1444 Edirne-Segedin Antlaşması'nın Osmanlı Devleti açısından en önemli maddesi ve askeri sonucu nedir?",
-        "cevap": "Osmanlı ile Macarlar arasında 10 yıl boyunca savaş yapılmayacağı kararlaştırılmış, böylece Batı sınırında geçici bir barış dönemi sağlanmıştır."
+        "cevap": "Osmanlı ile Macarlar arasında 10 yıl boyunca savaş yapılmayacağı kararlaştırılmış, böylece Batı sınırında geçici bir barış dönemi sağlanmıştır.",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Edirne-Segedin Antlaşması ile Batı'da barışı sağlayan ve ardından tahtı kendi isteğiyle 12 yaşındaki oğlu Şehzade Mehmed'e (Fatih) devrederek köşeye çekilen padişah kimdir?",
-        "cevap": "II. Murad"
+        "cevap": "II. Murad",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı tahtına 12 yaşında bir çocuğun (II. Mehmed) çıktığını duyan Avrupalı devletlerin Edirne-Segedin Antlaşması'nı bozarak kurduğu ittifak hangisidir?",
-        "cevap": "4. Haçlı İttifakı"
+        "cevap": "4. Haçlı İttifakı",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Kuşatması devam eden Haçlı tehlikesi üzerine 12 yaşındaki II. Mehmed'in babası II. Murad'ı ordunun başına çağırmak için yazdığı ünlü 'Eğer padişah sizseniz geliniz ordunuzun başına geçiniz...' mektubu üzerine yapılan savaş hangisidir?",
-        "cevap": "Varna Savaşı (1444)"
+        "cevap": "Varna Savaşı (1444)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Varna Savaşı'nın temel önemi ve askeri sonucu nedir?",
-        "cevap": "II. Murad komutasındaki Osmanlı ordusu, antlaşmayı bozan 4. Haçlı İttifakı'nı büyük bir bozguna uğratmış ve Balkanlar'daki Türk varlığını korumuştur."
+        "cevap": "II. Murad komutasındaki Osmanlı ordusu, antlaşmayı bozan 4. Haçlı İttifakı'nı büyük bir bozguna uğratmış ve Balkanlar'daki Türk varlığını korumuştur.",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Varna Savaşı'nın intikamını almak ve Türkleri Balkanlar'dan tamamen atmak amacıyla kurulan 5. Haçlı İttifakı ile yapılan büyük meydan savaşı hangisidir?",
-        "cevap": "II. Kosova Savaşı (1448)"
+        "cevap": "II. Kosova Savaşı (1448)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı Devleti'nin zaferiyle sonuçlanan II. Kosova Savaşı'nın askeri tarihimizdeki en büyük önemi nedir?",
-        "cevap": "Avrupalıların Türkleri Balkanlar'dan atma ümidi tamamen sona ermiş, Haçlılar savunmaya geçerken Osmanlı Devleti taarruz (saldırı) gücüne ulaşmıştır."
+        "cevap": "Avrupalıların Türkleri Balkanlar'dan atma ümidi tamamen sona ermiş, Haçlılar savunmaya geçerken Osmanlı Devleti taarruz (saldırı) gücüne ulaşmıştır.",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Tarihsel niteliği bakımından Büyük Selçuklu Devleti'nin kazandığı Miryokefalon Savaşı'na benzetilen ve 'Balkanlar'ın Tapusu' olarak adlandırılan savaş hangisidir?",
-        "cevap": "II. Kosova Savaşı"
+        "cevap": "II. Kosova Savaşı",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "II. Kosova Savaşı ile Anadolu Selçuklu'nun kazandığı Miryokefalon Savaşı arasındaki ortak askeri mantık nedir?",
-        "cevap": "Miryokefalon Anadolu'nun kesin olarak Türk yurdu olduğunu (Anadolu'nun tapusunu) tescillemiş, II. Kosova ise Balkanlar'ın kesin olarak Türk yurdu olduğunu (Balkanlar'ın tapusunu) tescillemiştir. İkisinde de düşmanlar kesin olarak savunmaya çekilmiştir."
+        "cevap": "Miryokefalon Anadolu'nun kesin olarak Türk yurdu olduğunu (Anadolu'nun tapusunu) tescillemiş, II. Kosova ise Balkanlar'ın kesin olarak Türk yurdu olduğunu (Balkanlar'ın tapusunu) tescillemiştir. İkisinde de düşmanlar kesin olarak savunmaya çekilmiştir.",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı Devleti'nin kökenini dayandırdığı, Oğuzların Günhan soyuna bağlı olan ve sembolü iki ok bir yay (IYI) olan kurucu boy hangisidir?",
-        "cevap": "Kayı Boyu"
+        "cevap": "Kayı Boyu",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı Devleti'nde kendi soyunu Kayı Boyu'na dayandırarak hanedanın meşruiyetini güçlendirme ve 'Tarihçilik' (resmi tarih yazıcılığı) faaliyetlerini sistemli şekilde başlatma adımları hangi padişah döneminde atılmıştır?",
-        "cevap": "II. Murad"
+        "cevap": "II. Murad",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı tarihindeki ilk Yeniçeri (Kapıkulu/Devşirme) isyanı hangisidir?",
-        "cevap": "Buçuktepe Vakası (1446)"
+        "cevap": "Buçuktepe Vakası (1446)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "12 yaşındaki II. Mehmed'in ilk taht deneyimi sırasında akçenin değerinin düşürülmesini bahane ederek isyan eden ve II. Murad'ın Edirne'ye gelip tahta yeniden geçmesiyle sonuçlanan askeri ayaklanma hangisidir?",
-        "cevap": "Buçuktepe Vakası"
+        "cevap": "Buçuktepe Vakası",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Yeniçerilerin sonraki dönemlerde isyan başlattıklarını ve devlete başkaldırdıklarını simgeleyen, kökeni Buçuktepe Vakası'na dayanan ünlü askeri deyim hangisidir?",
-        "cevap": "Kazan Kaldırmak"
+        "cevap": "Kazan Kaldırmak",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "II. Murad döneminde devşirme kökenli üst düzey bürokrat, asker ve devlet adamı yetiştirmek amacıyla ilk kez Edirne Sarayı'nda kurulan saray okulunun adı nedir?",
-        "cevap": "Enderun Mektebi"
+        "cevap": "Enderun Mektebi",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Enderun Mektebi'nin Osmanlı devlet yönetimindeki temel işlevi ve kuruluş amacı nedir?",
-        "cevap": "Yetenekli devşirme çocuklarını saray içinde üst düzey dini, idari ve askeri eğitimden geçirerek sadık birer sadrazam, vezir veya komutan olarak devlete kazandırmak."
+        "cevap": "Yetenekli devşirme çocuklarını saray içinde üst düzey dini, idari ve askeri eğitimden geçirerek sadık birer sadrazam, vezir veya komutan olarak devlete kazandırmak.",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı Kuruluş Dönemi'nde Haçlı İttifakı ile yapılan büyük savaşların kronolojik kodlaması (şifresi) nedir?",
-        "cevap": "SINAV II (Sırpsındığı, I. Kosova, Niğbolu, Varna, II. Kosova)"
+        "cevap": "SINAV II (Sırpsındığı, I. Kosova, Niğbolu, Varna, II. Kosova)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı Kuruluş Dönemi'nde 'SINAV II' şifresiyle bilinen Haçlı savaşlarından hangileri I. Murad döneminde yapılmıştır?",
-        "cevap": "Sırpsındığı (İlk Haçlı) ve I. Kosova Savaşları"
+        "cevap": "Sırpsındığı (İlk Haçlı) ve I. Kosova Savaşları",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı Kuruluş Dönemi'nde 'SINAV II' şifresiyle bilinen Haçlı savaşlarından hangisi Yıldırım Bayezid döneminde yapılmıştır?",
-        "cevap": "Niğbolu Savaşı"
+        "cevap": "Niğbolu Savaşı",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı Kuruluş Dönemi'nde 'SINAV II' şifresiyle bilinen Haçlı savaşlarından hangileri II. Murad döneminde yapılmıştır?",
-        "cevap": "Varna ve II. Kosova Savaşları"
+        "cevap": "Varna ve II. Kosova Savaşları",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı Devleti'nin kuruluş döneminde yönetimde ve bürokraside çok güçlü bir otorite kuran, hatta padişahların kararlarını bile etkileyebilecek güce ulaşan köklü Türk aristokrat ailesi hangisidir?",
-        "cevap": "Çandarlı Ailesi (Çandarlı Halil Paşa)"
+        "cevap": "Çandarlı Ailesi (Çandarlı Halil Paşa)",
+        "Unite": "Beylikten Devlete Osmanlı Siyaseti (1302-1453)",
+        "Tema": "Beylikten Devlete Osmanlı Siyaseti"
     },
     {
         "Soru": "II. Murad'ın vefatından sonra tahta ikinci kez geçen II. Mehmed'in (Fatih), yönetimdeki Türk soylu ailelerin (özellikle Çandarlı ailesinin) vesayetini kırmak için attığı en büyük stratejik adım ne olacaktır?",
-        "cevap": "İstanbul'un fethinden sonra Çandarlı Halil Paşa'yı idam ettirerek müsadere sistemini uygulayacak ve yönetimde tamamen devşirme kökenli (Enderun mezunu) bürokratları hakim kılarak mutlak merkezi otoriteyi sağlayacaktır."
+        "cevap": "İstanbul'un fethinden sonra Çandarlı Halil Paşa'yı idam ettirerek müsadere sistemini uygulayacak ve yönetimde tamamen devşirme kökenli (Enderun mezunu) bürokratları hakim kılarak mutlak merkezi otoriteyi sağlayacaktır.",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "İslam dünyasında 'Feth-i Mübin' (Apaçık Fetih) olarak adlandırılan ve Osmanlı Devleti'ni imparatorluk aşamasına taşıyan büyük olay hangisidir?",
-        "cevap": "İstanbul'un Fethi (29 Mayıs 1453)"
+        "cevap": "İstanbul'un Fethi (29 Mayıs 1453)",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "Osmanlı Devleti'nin Anadolu ve Rumeli toprakları arasındaki fiziki kopukluğu gidermek ve 'toprak bütünlüğünü' sağlamak amacıyla gerçekleştirdiği askeri harekat hangisidir?",
-        "cevap": "İstanbul'un Fethi"
+        "cevap": "İstanbul'un Fethi",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "İstanbul'un fethinin ekonomik amacı nedir?",
-        "cevap": "Karadeniz ile Akdeniz'i birbirine bağlayan Boğazlar'ı alarak İpek Yolu ticaretini ve bölge ticaretini tamamen kontrol altına almak."
+        "cevap": "Karadeniz ile Akdeniz'i birbirine bağlayan Boğazlar'ı alarak İpek Yolu ticaretini ve bölge ticaretini tamamen kontrol altına almak.",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "Yıldırım Bayezid döneminde yapılan Anadolu Hisarı'nın (Güzelcehisar) tam karşısına, Boğaz'ın kontrolünü sağlamak için Fatih tarafından inşa ettirilen hisar hangisidir?",
-        "cevap": "Rumeli Hisarı (Boğazkesen Hisarı)"
+        "cevap": "Rumeli Hisarı (Boğazkesen Hisarı)",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "İstanbul surlarını yıkabilmek için bizzat Fatih Sultan Mehmed'in tasarımlarına katkı sağladığı, dönemin en büyük savaş toplarına ne ad verilir?",
-        "cevap": "Şahi Topları"
-    },
-    {
-        "Soru": "İstanbul kuşatması sırasında Bizans'a Avrupa'dan gelebilecek kara yardımlarını kesmek amacıyla önceden ele geçirilen kaleler hangileridir?",
-        "cevap": "Vize ve Silivri Kaleleri"
+        "cevap": "Şahi Topları",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "Fatih Sultan Mehmed'in Haliç'i kapatan zincirleri aşmak için uyguladığı, dünya harp tarihine geçen efsanevi taktik nedir?",
-        "cevap": "Yaklaşık 80 parça gemiyi (donanmayı) karadan kızaklar üzerinden yürüterek Haliç'e indirmek."
+        "cevap": "Yaklaşık 80 parça gemiyi (donanmayı) karadan kızaklar üzerinden yürüterek Haliç'e indirmek.",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "Fatih Sultan Mehmed döneminde, Anadolu'da Osmanlı'yı en çok uğraştıran ve ilk kez ciddi bir şekilde itaat altına alınan Türk beyliği hangisidir?",
-        "cevap": "Karamanoğulları Beyliği"
+        "cevap": "Karamanoğulları Beyliği",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
-        "Soru": "1473 yılında Uzun Hasan komutasındaki Akkoyunlu Devleti'nin mağlup edildiği ve Doğu Anadolu'nun güvenliğinin sağlandığı savaş hangisidir?",
-        "cevap": "Otlukbeli Savaşı"
+        "Soru": "1473 yılında Uzun Hasan komutasındaki Akkoyunlu Devleti'nin mağlup edildiği and Doğu Anadolu'nun güvenliğinin sağlandığı savaş hangisidir?",
+        "cevap": "Otlukbeli Savaşı",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "Otlukbeli Savaşı'nda Akkoyunlu Devleti'nin zayıflayıp yıkılış sürecine girmesi, Doğu'da hangi yeni tehlikenin (devletin) ortaya çıkmasına zemin hazırlamıştır?",
-        "cevap": "Şah İsmail önderliğindeki Safevi Devleti'nin kurulmasına."
+        "cevap": "Şah İsmail önderliğindeki Safevi Devleti'nin kurulmasına.",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "Bizans İmparatorluğu'nun yeniden diriltilme umutlarını tamamen yok etmek amacıyla fethedilen yerler neresidir?",
-        "cevap": "Mora Yarımadası ve Trabzon (Trabzon Rum İmparatorluğu)"
+        "cevap": "Mora Yarımadası ve Trabzon (Trabzon Rum İmparatorluğu)",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "Vergi ödemeyi reddettikleri ve isyan ettikleri için Fatih döneminde Osmanlı topraklarına katılan iki önemli Balkan (Romanya) bölgesi neresidir?",
-        "cevap": "Eflak ve Boğdan"
+        "cevap": "Eflak ve Boğdan",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "16 yıl süren Osmanlı-Venedik deniz savaşları sonucunda imzalanan ve Venedik'e Osmanlı denizlerinde ticaret yapma ayrıcalığının (ilk kapitülasyonların) verildiği antlaşma hangisidir?",
-        "cevap": "1479 İstanbul Antlaşması"
+        "cevap": "1479 İstanbul Antlaşması",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "1479 İstanbul Antlaşması ile İstanbul'da sürekli elçi bulundurma hakkı elde eden ilk Avrupalı devlet kimdir ve bu elçilere ne ad verilir?",
-        "cevap": "Venedik Cumhuriyeti (Elçilerine 'Balyos' veya 'Balyos Bey' denir)"
+        "cevap": "Venedik Cumhuriyeti (Elçilerine 'Balyos' veya 'Balyos Bey' denir)",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "Gedik Ahmet Paşa komutasındaki Osmanlı donanması tarafından fethedilen ve Karadeniz'in kesin olarak bir 'Türk Gölü' haline gelmesini sağlayan stratejik bölge neresidir?",
-        "cevap": "Kırım (1475)"
+        "cevap": "Kırım (1475)",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "Fatih Sultan Mehmed'in kuşatıp da alamadığı tek ada (denizdeki tek başarısızlığı) neresidir?",
-        "cevap": "Rodos Adası"
+        "cevap": "Rodos Adası",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "Fatih Sultan Mehmed'in kuşatıp da alamadığı tek kale?",
-        "cevap": "Belgrat"
+        "cevap": "Belgrat",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "Devletin, görevden alınan veya ölen üst düzey devlet memurlarının mallarına el koyarak hazineye aktarması sistemine ne ad verilir?",
-        "cevap": "Müsadere Sistemi (İlk kez Çandarlı Halil Paşa ailesine uygulanmıştır)"
+        "cevap": "Müsadere Sistemi (İlk kez Çandarlı Halil Paşa ailesine uygulanmıştır)",
+        "Unite": "Klasik Çağda Osmanlı Toplum Düzeni",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "Fatih Sultan Mehmed'in Müsadere sistemini getirmesindeki temel siyasi amaç nedir?",
-        "cevap": "Türk aristokrat ailelerin aşırı güçlenmesini engellemek ve mutlak merkezi otoriteyi (padişahın gücünü) korumak."
+        "cevap": "Türk aristokrat ailelerin aşırı güçlenmesini engellemek ve mutlak merkezi otoriteyi (padişahın gücünü) korumak.",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "Osmanlı Devleti'nin örfi hukuk kurallarının ilk kez yazılı hale getirildiği, devletin bekası için 'kardeş katline' yasal izin veren anayasal nitelikteki belge hangisidir?",
-        "cevap": "Kanunname-i Âli Osman (Fatih Kanunnamesi)"
+        "cevap": "Kanunname-i Âli Osman (Fatih Kanunnamesi)",
+        "Unite": "Klasik Çağda Osmanlı Toplum Düzeni",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "İstanbul'un fethinden sonra inşasına başlanan ve Osmanlı Devleti'nin yaklaşık 400 yıl boyunca idare merkezi (yönetim kalbi) olan efsanevi saray hangisidir?",
-        "cevap": "Topkapı Sarayı"
+        "cevap": "Topkapı Sarayı",
+        "Unite": "Klasik Çağda Osmanlı Toplum Düzeni",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "Osmanlı Devleti'nin ekonomik gücünün zirveye ulaştığının en büyük kanıtı olan, Fatih döneminde bastırılan ilk altın paranın adı nedir?",
-        "cevap": "Sultani (Sikke-i Hasene)"
+        "cevap": "Sultani (Sikke-i Hasene)",
+        "Unite": "Klasik Çağda Osmanlı Toplum Düzeni",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "Fatih Sultan Mehmed döneminde açılan, günümüz üniversiteleri düzeyinde yükseköğrenim (din, hukuk, fen ve matematik) veren eğitim kurumunun adı nedir?",
-        "cevap": "Sahn-ı Seman Medreseleri"
+        "cevap": "Sahn-ı Seman Medreseleri",
+        "Unite": "Klasik Çağda Osmanlı Toplum Düzeni",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "İstanbul kuşatması sırasında Bizans İmparatorluğu'nun fethi engellemek amacıyla aldığı askeri ve savunma odaklı önlemler nelerdir?",
-        "cevap": "İstanbul surlarını tamir edip güçlendirmişler, Haliç'in girişini devasa zincirlerle kapatmışlar ve deniz altında da yanabilen 'Grejuva' (Rum Ateşi) adlı silahı hazır hale getirmişlerdir."
+        "cevap": "İstanbul surlarını tamir edip güçlendirmişler, Haliç'in girişini devasa zincirlerle kapatmışlar ve deniz altında da yanabilen 'Grejuva' (Rum Ateşi) adlı silahı hazır hale getirmişlerdir.",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "Bizans İmparatorluğu, Osmanlı kuşatmasına karşı Avrupa'dan (özellikle Papa'dan) askeri yardım alabilmek için hangi dini tavizi vermeyi kabul etmiştir?",
-        "cevap": "Ortodoks Kilisesi ile Katolik Kilisesi'nin birleştirilmesini (Katolik dünyasının üstünlüğünü) kabul etmiştir."
+        "cevap": "Ortodoks Kilisesi ile Katolik Kilisesi'nin birleştirilmesini (Katolik dünyasının üstünlüğünü) kabul etmiştir.",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "Halkı tamamen Ortodoks olan Bizans'ta, imparatorun Papa'dan yardım almak için Katolik Kilisesi ile birleşme kararına karşı çıkan Bizanslı devlet adamı Notaras'ın tarihe geçen ünlü sözü nedir?",
-        "cevap": "'İstanbul'da Kardinal külahı görmektense, Türk sarığı görmeyi tercih ederim!'"
+        "cevap": "'İstanbul'da Kardinal külahı görmektense, Türk sarığı görmeyi tercih ederim!'",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "Bizans halkının ve yüksek bürokrasisinin (Notaras gibi) Katolik Kilisesi ile birleşmeye bu denli sert karşı çıkmasının temel tarihsel nedeni nedir?",
-        "cevap": "1204 yılındaki 4. Haçlı Seferi sırasında Katolik Haçlıların İstanbul'u işgal edip yağmalaması ve Ortodokslara büyük zulümler yapması (tarihsel Haçlı travması)."
-    },
-    {
-        "Soru": "İstanbul'un fethinde kullanılan Şahi toplarının devasa surları yıkabileceğinin görülmesi, Avrupa'da hangi siyasi ve askeri sistemin çöküşünü hızlandırmıştır?",
-        "cevap": "Derebeylik (Feodalite) sistemi yıkılmış, krallıklar (mutlak monarşiler) yeniden güç kazanmıştır."
+        "cevap": "1204 yılındaki 4. Haçlı Seferi sırasında Katolik Haçlıların İstanbul'u işgal edip yağmalaması ve Ortodokslara büyük zulümler yapması (tarihsel Haçlı travması).",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "İstanbul'un fethinden sonra İtalya'ya kaçan Bizanslı bilim insanları, sanatçılar ve düşünürler orada antik Yunan ve Roma eserlerini inceleyerek Avrupa'da hangi dönemin başlamasında etkili olmuştur?",
-        "cevap": "Rönesans (Yeniden Doğuş)"
+        "cevap": "Rönesans (Yeniden Doğuş)",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "Soru bankalarında ve denemelerde sıkça karıştırılan; İstanbul'un fethiyle doğrudan tetiklenen bilimsel/sanatsal gelişme ile Katolik Kilisesi'ne karşı yapılan dini mücadeleyi birbirinden ayıran temel fark nedir?",
-        "cevap": "İstanbul'un fethiyle İtalya'ya kaçan bilginler **Rönesans'ı (bilim, sanat, edebiyat)** başlatmıştır. Kilisenin sorgulanması ve dini değişim olan **Reform** ise daha sonra Coğrafi Keşifler ve matbaanın etkisiyle Almanya'da başlayacaktır. (Fetih doğrudan Reform'u değil, Rönesans'ı tetiklemiştir)."
+        "cevap": "İstanbul'un fethiyle İtalya'ya kaçan bilginler **Rönesans'ı (bilim, sanat, edebiyat)** başlatmıştır. Kilisenin sorgulanması ve dini değişim olan **Reform** ise daha sonra Coğrafi Keşifler and matbaanın etkisiyle Almanya'da başlayacaktır. (Fetih doğrudan Reform'u değil, Rönesans'ı tetiklemiştir).",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "Fatih Sultan Mehmed'in İstanbul'u fethettikten sonra Bizans hanedan soyundan gelenlerin sığındığı Mora Yarımadası'nı (1460) ve Trabzon Rum İmparatorluğu'nu (1461) ele geçirmesinin temel siyasi amacı nedir?",
-        "cevap": "Bizans'ın ileride yeniden canlandırılması (diriltilmesi) ihtimalini ve umutlarını tamamen ortadan kaldırmak."
+        "cevap": "Bizans'ın ileride yeniden canlandırılması (diriltilmesi) ihtimalini ve umutlarını tamamen ortadan kaldırmak.",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
-        "Soru": "Osmanlı Devleti'nin İstanbul'u alarak İpek Yolu'nun, Karadeniz ve Akdeniz ticaret havzasının kontrolünü ele geçirmesi, Avrupalı devletleri hangi küresel gelişmeye mecbur bırakmıştır?",
-        "cevap": "Müslümanlara vergi ödemeden Doğu'nun zenginliklerine ulaşmak için yeni yollar aramaya, yani **Coğrafi Keşifler**'i başlatmaya mecbur kalmışlardır."
+        "Soru": "Osmanlı Devleti'nin İstanbul'u alarak İpek Yolu'nun, Karadeniz and Akdeniz ticaret havzasının kontrolünü ele geçirmesi, Avrupalı devletleri hangi küresel gelişmeye mecbur bırakmıştır?",
+        "cevap": "Müslümanlara vergi ödemeden Doğu'nun zenginliklerine ulaşmak için yeni yollar aramaya, yani **Coğrafi Keşifler**'i başlatmaya mecbur kalmışlardır.",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "1774 yılında imzalanan ve Kırım'ın bağımsız olmasıyla Karadeniz'in bir 'Türk Gölü' olma özelliğini kesin olarak ortadan kaldıran tarihi antlaşma hangisidir?",
-        "cevap": "Küçük Kaynarca Antlaşması"
+        "cevap": "Küçük Kaynarca Antlaşması",
+        "Unite": "Uluslararası İlişkilerde Denge Stratejisi (1774-1914)",
+        "Tema": "Değişen Dünya Dengeleri Karşısında Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı Devleti'nin Rusya ile imzaladığı Küçük Kaynarca Antlaşması'nın, Karadeniz'deki Türk egemenliği ve jeopolitiği açısından doğurduğu en ağır askeri/siyasi sonuç nedir?",
-        "cevap": "Kırım'ın bağımsızlığını ilan etmesiyle birlikte, Fatih döneminden beri devam eden Karadeniz'in 'Türk Gölü' olma statüsü resmen ve tamamen son bulmuştur."
+        "cevap": "Kırım'ın bağımsızlığını ilan etmesiyle birlikte, Fatih döneminden beri devam eden Karadeniz'in 'Türk Gölü' olma statüsü resmen ve tamamen son bulmuştur.",
+        "Unite": "Uluslararası İlişkilerde Denge Stratejisi (1774-1914)",
+        "Tema": "Değişen Dünya Dengeleri Karşısında Osmanlı Siyaseti"
     },
     {
         "Soru": "Osmanlı Devleti'nde haksız kazanç sağlayan, rüşvet alan veya görevini kötüye kullanan memurların yanı sıra ölen ya da azledilen devlet görevlilerinin mallarına devletçe el konulması sistemine ne ad verilir ve bu sistemi ilk kez yasallaştırarak uygulayan padişah kimdir?",
-        "cevap": "Müsadere Sistemi - İlk kez Fatih Sultan Mehmed (Çandarlı Halil Paşa ailesine) uygulamıştır."
+        "cevap": "Müsadere Sistemi - İlk kez Fatih Sultan Mehmed (Çandarlı Halil Paşa ailesine) uygulamıştır.",
+        "Unite": "Klasik Çağda Osmanlı Toplum Düzeni",
+        "Tema": "Klasik Çağda Osmanlı Toplum Düzeni"
     },
     {
         "Soru": "Fatih Sultan Mehmed'in yönetim kademelerinden köklü Türk ailelerini uzaklaştırarak yerine tamamen kendisine sadık devşirme kökenli devlet adamlarını (Enderun mezunlarını) getirmesinin temel siyasi amacı nedir?",
-        "cevap": "Merkezi otoriteyi mutlak kılmak, padişahın gücüne ortak olabilecek aristokratik Türk ailelerinin (vesayet odaklarının) oluşmasını engellemek."
+        "cevap": "Merkezi otoriteyi mutlak kılmak, padişahın gücüne ortak olabilecek aristokratik Türk ailelerinin (vesayet odaklarının) oluşmasını engellemek.",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "Fatih döneminde temelleri atılan, yönetimde Türkmen soylularının tamamen dışlanıp devletin kilit noktalarına sadece devşirmelerin getirilmesi politikasının, uzun vadede Osmanlı Devleti'nin yıkılış sürecine (Duraklama ve Gerileme dönemlerine) etkisi ne olmuştur?",
-        "cevap": "Merkezi otoriteyi kısa vadede korumuş olsa da, uzun vadede devşirme kliklerinin (saray içindeki grupların) aşırı güçlenerek taht kavgalarına yön vermesine, yeniçerilerin devleti esir almasına ve devlet liyakatinin bozulmasına zemin hazırlamıştır."
+        "cevap": "Merkezi otoriteyi kısa vadede korumuş olsa da, uzun vadede devşirme kliklerinin (saray içindeki grupların) aşırı güçlenerek taht kavgalarına yön vermesine, yeniçerilerin devleti esir almasına ve devlet liyakatinin bozulmasına zemin hazırlamıştır.",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "Fatih Sultan Mehmed'in İstanbul'un fethinden sonra İslam dünyasındaki unvanlarının yanı sıra kendisini Doğu Roma İmparatorluğu'nun (Bizans'ın) da tek meşru mirasçısı olarak ilan etmek amacıyla kullandığı unvan hangisidir?",
-        "cevap": "Kayser-i Rûm (Roma İmparatoru / Sezarı)"
+        "cevap": "Kayser-i Rûm (Roma İmparatoru / Sezarı)",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
+    },
+    {
+        "Soru": "İstanbul'un fethinde kullanılan Şahi toplarının devasa surları yıkabileceğinin görülmesi, Avrupa'da hangi siyasi ve askeri sistemin çöküşünü hızlandırmıştır?",
+        "cevap": "Derebeylik (Feodalite) sistemi yıkılmış, krallıklar (mutlak monarşiler) yeniden güç kazanmıştır.",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "Fatih Sultan Mehmed'in hem Anadolu ve Rumeli'deki kara hakimiyetini hem de Karadeniz ve Ege/Akdeniz'deki deniz üstünlüğünü simgeleyen, 'İki karanın sultanı, iki denizin hakanı' anlamına gelen meşhur unvanları nelerdir?",
-        "cevap": "Sultânü'l-Bahreyn ve Hâkânü'l-Berreyn"
+        "cevap": "Sultânü'l-Bahreyn ve Hâkânü'l-Berreyn",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "Fatih Sultan Mehmed döneminde başkent İstanbul'da açılan, tıp, astronomi, matematik ve dini ilimlerde eğitim veren, Osmanlı'nın en yüksek düzeydeki ilk üniversitesi sayılan eğitim kurumu hangisidir?",
-        "cevap": "Sahn-ı Seman Medresesi"
+        "cevap": "Sahn-ı Seman Medresesi",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
     },
     {
         "Soru": "Sahn-ı Seman Medresesi'ne öğrenci yetiştirmek amacıyla onun bir alt basamağı (hazırlık sınıfı) niteliğinde açılan medreselere ne ad verilir?",
-        "cevap": "Tetikme Medreseleri"
+        "cevap": "Tetikme Medreseleri",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
+    },
+    {
+        "Soru": "Osmanlı Devleti'nin yükselme ve duraklama dönemlerinde Avrupalı devletlere ticari, hukuki ve mali alanlarda tanıdığı ayrıcalıklara genel olarak ne ad verilir?",
+        "cevap": "Kapitülasyon (Imtiyaz/Ayrıcalık)",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
+    },
+    {
+        "Soru": "Osmanlı Devleti'nin Avrupalı devletlere kapitülasyonlar vermesindeki temel iki stratejik amaç nedir?",
+        "cevap": "1. Hristiyan birliğini (Haçlı ittifaklarını) bölmek ve parçalamak. 2. Coğrafi Keşifler ile önemi azalan Akdeniz ticaretini yeniden canlandırmak.",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
+    },
+    {
+        "Soru": "Yükselme Dönemi'nde, Akdeniz ticaretini elinde tutan Venediklilere ilk kez geniş kapsamlı ticari imtiyazlar (kapitülasyonlar) tanıyan Osmanlı padişahı kimdir?",
+        "cevap": "Fatih Sultan Mehmed (II. Mehmed)",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
+    },
+    {
+        "Soru": "Osmanlı Devleti'nde Kanuni Sultan Süleyman döneminde Akdeniz'de ittifak sağlamak ve Haçlı birliğini bozmak amacıyla kapitülasyon verilen Avrupa devleti hangisidir?",
+        "cevap": "Fransa",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
+    },
+    {
+        "Soru": "Kanuni Sultan Süleyman döneminde Fransa'ya verilen kapitülasyonların, ilerleyen dönemlerde devlete yük olmasını engellemek amacıyla konulan en kritik hukuki sınırlandırma nedir?",
+        "cevap": "Ayrıcalıkların 'iki hükümdarın ömrüyle sınırlı' tutulması (I. Mahmut döneminde 1740'ta sürekli hale getirilerek hataya düşülecektir).",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Dünya Gücü Osmanlı"
+    },
+    {
+        "Soru": "16. yüzyılın sonlarında, coğrafi keşiflerle okyanuslara açılan ve Akdeniz'de güçlenmek isteyen İngiltere'ye ilk kez kapitülasyon veren Osmanlı padişahı kimdir?",
+        "cevap": "III. Murat",
+        "Unite": "Değişen Dünya Dengeleri Karşısında Osmanlı Siyaseti (1595-1774)",
+        "Tema": "Değişen Dünya Dengeleri Karşısında Osmanlı Siyaseti"
+    },
+    {
+        "Soru": "17. yüzyılın başlarında (Duraklama Dönemi), deniz ticaretinde devleşen Hollanda'ya ticari imtiyaz ve kapitülasyon tanıyan Osmanlı padişahı kimdir?",
+        "cevap": "I. Ahmet",
+        "Unite": "Değişen Dünya Dengeleri Karşısında Osmanlı Siyaseti (1595-1774)",
+        "Tema": "Değişen Dünya Dengeleri Karşısında Osmanlı Siyaseti"
+    },
+    {
+        "Soru": "18. yüzyılda (Gerileme Dönemi / Lale Devri padişahı), Batı'daki dengeleri gözetmek amacıyla Avusturya'ya kapitülasyon tanıyan Osmanlı hükümdarı kimdir?",
+        "cevap": "III. Ahmet",
+        "Unite": "Değişen Dünya Dengeleri Karşısında Osmanlı Siyaseti (1595-1774)",
+        "Tema": "Değişen Dünya Dengeleri Karşısında Osmanlı Siyaseti"
+    },
+    {
+        "Soru": "Kanyi adına ilk kez para bastırarak Türk tarihinde ticari ve ekonomik bağımsızlık adımını atan Türgiş hükümdarı kimdir?",
+        "cevap": "Baga Tarkan",
+        "Unite": "Yerleşme ve Devletleşme Sürecinde Selçuklu Türkiyesi",
+        "Tema": "Türklerin İslamiyet'i Kabulü ve İlk Türk-İslam Devletleri"
+    },
+    {
+        "Soru": "Türklerin yaşadığı Altay Dağları'nın fiziki görüntüsünü askeri teçhizatlara benzeterek, 'Türk' kelimesine 'Miğfer' anlamını veren tarihi kaynaklar hangisidir?",
+        "cevap": "Çin Kaynakları",
+        "Unite": "Tarih ve Zaman",
+        "Tema": "İlk ve Orta Çağlarda Türk Dünyası"
+    },
+    {
+        "Soru": "Kafkasya bölgesinde Hz. Osman döneminde Müslüman ordularıyla (Belencer Savaşı) savaşarak İslamiyet'in bu bölgede ve Rusya güneyinde yayılmasını uzun süre engelleyen Türk devleti hangisidir?",
+        "cevap": "Hazarlar",
+        "Unite": "İslam Medeniyetinin Doğuşu",
+        "Tema": "İlk ve Orta Çağlarda Türk Dünyası"
+    },
+    {
+        "Soru": "Günümüzde de kökenlerini doğrudan Attila'ya dayandıran ve kendilerini Avrupa Hun İmparatorluğu'nun meşru varisi olarak kabul eden topluluk/devlet hangisidir?",
+        "cevap": "Macarlar",
+        "Unite": "Tarih ve Zaman",
+        "Tema": "İlk ve Orta Çağlarda Türk Dünyası"
+    },
+    {
+        "Soru": "İlk Türk-İslam devletlerinde sosyal devlet anlayışının bir gereği olarak inşa edilen ve 'Bimaristan' adı verilen gelişmiş hastaneleri ilk kez kuran medeniyet hangisidir?",
+        "cevap": "Karahanlılar",
+        "Unite": "Yerleşme ve Devletleşme Sürecinde Selçuklu Türkiyesi",
+        "Tema": "Türklerin İslamiyet'i Kabulü ve İlk Türk-İslam Devletleri"
+    },
+    {
+        "Soru": "Cengiz Han'ın ölümünden sonra kurulan Moğol devletleri arasında, İslamiyet'i resmi din olarak kabul eden ilk Türk-Moğol hanlığı hangisidir?",
+        "cevap": "Altın Orda Devleti",
+        "Unite": "Yerleşme ve Devletleşme Sürecinde Selçuklu Türkiyesi",
+        "Tema": "İlk ve Orta Çağlarda Türk Dünyası"
+    },
+    {
+        "Soru": "Moğol İmparatorluğu'nun parçalanmasıyla Çin coğrafyasında kurulan, Budizm ve Hristiyanlığı benimseyerek İslamiyet'i kabul etmeyen tek Moğol hanlığı hangisidir?",
+        "cevap": "Kubilay Hanlığı",
+        "Unite": "Yerleşme ve Devletleşme Sürecinde Selçuklu Türkiyesi",
+        "Tema": "İlk ve Orta Çağlarda Türk Dünyası"
+    },
+    {
+        "Soru": "Timur'un Altın Orda Devleti üzerine düzenlediği seferlerle bu devleti zayıflatıp yıkması, kuzeyde hangi küresel gücün birleşerek tarih sahnesine çıkmasına ve güçlenmesine zemin hazırlamıştır?",
+        "cevap": "Rus prensliklerinin (Rusya'nın) güçlenmesine zemin hazırlamıştır.",
+        "Unite": "Yerleşme ve Devletleşme Sürecinde Selçuklu Türkiyesi",
+        "Tema": "İlk ve Orta Çağlarda Türk Dünyası"
     }
 ]
