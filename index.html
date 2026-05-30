@@ -850,6 +850,54 @@
             margin-top: 4px;
         }
 
+        .gender-container {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 14px;
+            user-select: none;
+        }
+
+        .gender-label {
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            font-size: 16px;
+            font-family: sans-serif;
+        }
+
+        /* Eski radio butonunu gizle */
+        .gender-label input {
+            display: none;
+        }
+
+        /* Yeni "Radio" dairesi */
+        .radio-custom {
+            width: 18px;
+            height: 18px;
+            border: 2px solid #555;
+            border-radius: 50%;
+            margin-right: 8px;
+            position: relative;
+            transition: all 0.2s ease;
+        }
+
+        /* Seçili olduğunda içindeki nokta */
+        .gender-label input:checked+.radio-custom {
+            border-color: #007bff;
+        }
+
+        .gender-label input:checked+.radio-custom::after {
+            content: '';
+            width: 10px;
+            height: 10px;
+            background-color: #007bff;
+            border-radius: 50%;
+            position: absolute;
+            top: 2px;
+            left: 2px;
+        }
+
         @media (max-width: 900px) {
             body {
                 padding: 20px 12px;
@@ -1026,7 +1074,10 @@
         const filterBody = document.getElementById("filter-body");
 
         function getNick() {
-            const variants = [userName + "cım", userName + "cim", "oğlum", "kızım"];
+            const gender = localStorage.getItem("quiz_user_gender") || "male";
+            const variants = gender === "female"
+                ? [userName + "cım", userName + "cim", "kızım"]
+                : [userName + "cım", userName + "cim", "oğlum"];
             return variants[Math.floor(Math.random() * variants.length)];
         }
 
@@ -1227,9 +1278,24 @@
             <div class="name-modal">
                 <h3><i class="fa-solid fa-user-graduate" style="color:var(--accent)"></i> Merhaba!</h3>
                 <p>Sultan Hocanın seni bilmesi gerekiyor, ismin ne? Adını veya lakabını yaz, sana göre konuşsun.</p>
-                <input type="text" id="name-input" placeholder="Adın veya lakabın..." maxlength="20" onkeydown="if(event.key==='Enter') saveName()">
+                <input type="text" id="name-input" placeholder="Adın..." maxlength="20" onkeydown="if(event.key==='Enter') saveName()">
+                
+                <div class="gender-container">
+                    <label class="gender-label">
+                        <input type="radio" name="gender" value="male" checked>
+                        <div class="radio-custom"></div>
+                        Erkek
+                    </label>
+                    
+                    <label class="gender-label">
+                        <input type="radio" name="gender" value="female">
+                        <div class="radio-custom"></div>
+                        Kız
+                    </label>
+                </div>
                 <button class="primary-btn" onclick="saveName()"><i class="fa-solid fa-check"></i> Tamam, Başla</button>
             </div>
+            
         `;
             document.body.appendChild(modal);
             setTimeout(() => document.getElementById("name-input")?.focus(), 100);
@@ -1238,7 +1304,9 @@
         function saveName() {
             const v = (document.getElementById("name-input")?.value || "").trim();
             userName = v || "kardeş";
+            const gender = document.querySelector('input[name="gender"]:checked')?.value || "male";
             localStorage.setItem("quiz_user_name", userName);
+            localStorage.setItem("quiz_user_gender", gender);
             document.getElementById("name-modal")?.remove();
             switchToStart();
         }
