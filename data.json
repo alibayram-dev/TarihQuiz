@@ -1252,5 +1252,125 @@
         "cevap": "Şirpençe",
         "Unite": "Dünya Gücü Osmanlı (1453-1595)",
         "Tema": "Sultan ve Merkez Teşkilatı"
+    },
+    {
+        "Soru": "Batılı kaynaklar tarafından 'The Magnificent' (Muhteşem), doğu fütühatı ve adalet anlayışı sebebiyle de 'Kanuni' olarak anılan, ayrıca Avrupalıların 'Grand Turco' (Büyük Türk) unvanını verdiği Osmanlı padişahı kimdir?",
+        "cevap": "I. Süleyman (Kanuni Sultan Süleyman)",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Sultan ve Merkez Teşkilatı"
+    },
+    {
+        "Soru": "Kanuni Sultan Süleyman Dönemi'nde Osmanlı Devleti'nin 'Süper Devlet' haline gelmesinde etkili olan, taht kavgalarının yaşanmamasının ve en uzun süre tahtta kalan padişah olmasının temel sebebi nedir?",
+        "cevap": "Yavuz Sultan Selim'in tek erkek oğlu olarak tahta rakipsiz çıkması",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Sultan ve Merkez Teşkilatı"
+    },
+    {
+        "Soru": "Dünya tarihine yön veren hukuki düzenlemeleri ve adalet anlayışı sebebiyle bugün ABD Kongre Binası'nda (Temsilciler Meclisi) portresi/kabartması asılı olan Osmanlı padişahı kimdir?",
+        "cevap": "Kanuni Sultan Süleyman",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Sultan ve Merkez Teşkilatı"
+    },
+    {
+        "Soru": "Kanuni Sultan Süleyman Dönemi'nde, Yozgat ve çevresinde vergi sistemindeki adaletsizlikler ile arazi tahriri (sayımı) sırasındaki memur suiistimallerini gerekçe göstererek ortaya çıkan ve taşrada büyük yankı uyandıran isyan hangisidir?",
+        "cevap": "Baba Zünnun İsyanı",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Sultan ve Merkez Teşkilatı"
+    },
+    {
+        "Soru": "Osmanlı Devleti'nin Kanuni Sultan Süleyman Dönemi'nde Batı Siyaseti kapsamında karşı karşıya geldiği, Kutsal Roma Germen İmparatorluğu'nu ve Avusturya'yı da bünyesinde barındıran en büyük küresel güç odağı (hanedan) hangisidir?",
+        "cevap": "Habsburg Hanedanı (İmparator Şarlken ve Avusturya Arşidükü Ferdinand)",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Gaza ve Cihat"
+    },
+    {
+        "Soru": "1521 yılında fethedilerek Orta Avrupa seferlerinde Osmanlı ordusu için stratejik bir askeri üs (lojistik merkez) haline getirilen, Fatih Sultan Mehmet'in kuşatıp da alamadığı yer neresidir?",
+        "cevap": "Belgrat",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Gaza ve Cihat"
+    },
+    {
+        "Soru": "Fatih Sultan Mehmet'in kuşatmasına rağmen alınamayan, ancak Kanuni Sultan Süleyman tarafından fethedilerek Macaristan ve Viyana kapılarının Osmanlı'ya açılmasını sağlayan stratejik üs neresidir?",
+        "cevap": "Belgrat",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Gaza ve Cihat"
+    },
+    {
+        "Soru": "1526 yılında Macaristan ordusuna karşı yapılan, yaklaşık 2 saat gibi çok kısa bir sürede kazanılmasıyla dünya tarihinin en kısa süreli meydan savaşı kabul edilen ve Avrupa üstünlüğünü Osmanlı'ya geçiren askeri gelişme hangisidir?",
+        "cevap": "Mohaç Meydan Muharebesi",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Gaza ve Cihat"
+    },
+    {
+        "Soru": "Kanuni Sultan Süleyman'ın Mohaç Meydan Muharebesi ile Macaristan Krallığı'nı mağlup etmesinin Avrupa siyasi dengeleri açısından en önemli somut sonucu nedir?",
+        "cevap": "Macaristan'ın Osmanlı'ya bağımlı bir krallık haline gelmesi ve Osmanlı ile Avusturya'nın doğrudan komşu olması",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Gaza ve Cihat"
+    },
+    {
+        "Soru": "Kanuni Sultan Süleyman'ın Avusturya'nın Macaristan iç işlerine karışması üzerine gerçekleştirdiği, ancak ağır kış şartları, büyük kuşatma toplarının götürülmemesi ve lojistik hazırlıkların yetersizliği sebebiyle başarısızlıkla sonuçlanan askeri harekat hangisidir?",
+        "cevap": "I. Viyana Kuşatması",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Gaza ve Cihat"
+    },
+    {
+        "Soru": "Avusturya Arşidükü Ferdinand'ın Osmanlı'nın üstünlüğünü kabul etmek zorunda kaldığı, Avusturya arşidükünün (kralının) protokolde Osmanlı sadrazamına denk sayıldığı 1533 tarihli diplomatik antlaşma hangisidir?",
+        "cevap": "İstanbul Antlaşması (İbrahim Paşa Antlaşması)",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Gaza ve Cihat"
+    },
+    {
+        "Soru": "1533 İstanbul Antlaşması'nda yer alan 'Avusturya Arşidükü, siyasi ve hukuki açıdan Osmanlı Sadrazamına denk sayılacaktır' maddesinin Osmanlı dış politikası açısından anlamı nedir?",
+        "cevap": "Osmanlı Devleti'nin Avrupa karşısında mutlak siyasi ve diplomatik üstünlük elde etmesi",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Gaza ve Cihat"
+    },
+    {
+        "Soru": "Kanuni Sultan Süleyman'ın Avusturya üzerindeki siyasi üstünlüğünü tescilleyen 1533 İstanbul Antlaşması'nın geçerlilik süresi neye göre belirlenmiştir?",
+        "cevap": "Avusturya'nın antlaşma şartlarına uyduğu sürece geçerli olacağı belirtilerek süre Avusturya'nın sadakatine bırakılmıştır.",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Gaza ve Cihat"
+    },
+    {
+        "Soru": "Kanuni Sultan Süleyman Dönemi'nde Habsburgların baskısına karşı himaye edilen ve Osmanlı Devleti tarafından Macaristan tahtına çıkartılan yerel kral (Yanoş Zapolya) kimdir?",
+        "cevap": "Janos Szapolyai (Zapolya) / Sigismund",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Gaza ve Cihat"
+    },
+    {
+        "Soru": "Kanuni Sultan Süleyman'ın 1566 yılında çıktığı, kuşatma sırasında çadırında vefat ettiği ancak ordunun moralinin bozulmaması için ölümünün gizlendiği 'Son Seferi' hangisidir?",
+        "cevap": "Zigetvar Seferi",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "Gaza ve Cihat"
+    },
+    {
+        "Soru": "Osmanlı Devleti'nin batıda kazandığı fatihane başarılar ve coğrafi keşiflerin etkisiyle Avrupa'ya akan bol miktarda gümüşün Osmanlı pazarlarına girmesi sonucu, Klasik Çağ Osmanlı ekonomisinde baş gösteren en büyük yapısal problem nedir?",
+        "cevap": "Enflasyon (Paranın değer kaybetmesi / Akçenin tağşiş edilmesi)",
+        "Unite": "Klasik Çağda Osmanlı Toplum Düzeni",
+        "Tema": "Osmanlı Ekonomisi"
+    },
+    {
+        "Soru": "Kanuni Sultan Süleyman'ın Safevi Devleti'nin sınır ihlalleri ve Şii propagandası üzerine Doğu'ya düzenlediği, Bağdat ve çevresinin (Irak) ilk kez Osmanlı topraklarına katılmasını sağlayan askeri harekat hangisidir?",
+        "cevap": "Irakeyn Seferi (Bağdat Seferi)",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "İslam Dünyası Liderliği"
+    },
+    {
+        "Soru": "Yavuz Sultan Selim'in Çaldıran Savaşı ile başlattığı doğu fütühatını devam ettirerek Bağdat, Basra ve Tebriz gibi stratejik bölgeleri ilk kez tam olarak Osmanlı sınırlarına dahil eden padişah kimdir?",
+        "cevap": "Kanuni Sultan Süleyman (Irakeyn Seferi ile)",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "İslam Dünyası Liderliği"
+    },
+    {
+        "Soru": "Osmanlı Devleti ile Safevi Devleti (İran) arasında imzalanan, iki devlet arasındaki sınırları resmiyete dökerek diplomatik ilişkileri başlatan tarihteki 'İlk Resmi Antlaşma' hangisidir?",
+        "cevap": "1555 Amasya Antlaşması",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "İslam Dünyası Liderliği"
+    },
+    {
+        "Soru": "Kanuni Sultan Süleyman Dönemi'nde imzalanan ve Osmanlı'nın Safevi Devleti'ne karşı üstünlüğünü kabul ettirerek Doğu Anadolu ile Irak hakimiyetini hukuken tescillediği ilk resmi antlaşma hangisidir?",
+        "cevap": "1555 Amasya Antlaşması",
+        "Unite": "Dünya Gücü Osmanlı (1453-1595)",
+        "Tema": "İslam Dünyası Liderliği"
     }
 ]
