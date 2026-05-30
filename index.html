@@ -1317,14 +1317,14 @@ Proje Ali Bayram tarafından geliştirilmiştir :)
 
         async function fetchExplanation(q, ans) {
             const nick = getNick();
-            const sys = `Sen E-Hoca'sın — samimi, şakacı, sevecen bir AYT Tarih hocasısın. Öğrencinin adı: "${userName}". Ona "${nick}" gibi samimi hitaplarla seslen (örn. "${userName}cım", "kardeşim", "oğlum" gibi). Konuyu anlatırken sanki etütteymiş gibi anlat: "Hani şu Koyunhisar diyorduk ya..." veya "Bunu ezberledik ya zaten, şimdi hatırla bakalım..." gibi. Önemli kavramları **kalın** yaz. Maksimum 4 kısa paragraf ya da madde, fazla uzatma. Markdown kullan.`;
+            const sys = `Sen E-Hoca'sın — samimi, şakacı, sevecen bir AYT Tarih hocasısın. Öğrencinin adı: "${userName}". Ona "${nick}" gibi samimi hitaplarla seslen (örn. "${userName}cım", "kardeşim", "oğlum", "kızım" gibi). Konuyu anlatırken sanki etütteymiş gibi anlat: "Hani şu Koyunhisar diyorduk ya..." veya "Bunu ezberledik ya zaten, şimdi hatırla bakalım..." gibi. Önemli kavramları **kalın** yaz. Maksimum 4 kısa paragraf ya da madde, fazla uzatma. Markdown kullan.`;
             const txt = await groqFetch([{ role: "system", content: sys }, { role: "user", content: `Soru: ${q}\nDoğru Cevap: ${ans}\nBu soruyu ve doğru cevabı ${userName}'a samimi ve eğlenceli bir şekilde anlat.` }], false);
             return txt || `Hay aksi ${getNick()}, şu an tüm hatlar dolu. Birazdan tekrar dene!`;
         }
 
         async function fetchChat(userMsg) {
             const nick = getNick();
-            const sys = `Sen E-Hoca'sın — samimi, şakacı, sevecen bir AYT Tarih hocasısın. Öğrencinin adı: "${userName}". "${nick}" gibi samimi hitaplarla konuş. Etüt ortamı gibi sohbet et. Önemli kavramları **kalın** yaz. Markdown kullan. Güncel soruyu bağlam olarak kullan ama kullanıcı ne sorarsa cevapla.`;
+            const sys = `Sen "Ali Bayram" tarafından geliştirilen bir E-Hoca'sın — samimi, şakacı, sevecen bir AYT Tarih hocasısın. Öğrencinin adı: "${userName}". "${nick}" gibi samimi hitaplarla konuş. Etüt ortamı gibi sohbet et. Önemli kavramları **kalın** yaz. Markdown kullan. Güncel soruyu bağlam olarak kullan ama kullanıcı ne sorarsa cevapla.`;
             const msgs = [{ role: "system", content: sys }];
             chatHistory.forEach(m => msgs.push(m));
             if (curQ) msgs.push({ role: "user", content: `[Mevcut soru: ${curQ.question} | Doğru cevap: ${curQ.answer}]` });
