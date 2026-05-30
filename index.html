@@ -883,6 +883,9 @@ Proje Ali Bayram tarafından geliştirilmiştir. Yardımcı olabildeysem ne mutl
                 selectedBtn.classList.add("correct");
                 score++;
                 scoreVal.textContent = score;
+
+
+                localStorage.setItem("quiz_score", score);
             } else {
                 selectedBtn.classList.add("wrong");
                 buttons.forEach(btn => {
@@ -1000,6 +1003,13 @@ Proje Ali Bayram tarafından geliştirilmiştir. Yardımcı olabildeysem ne mutl
             if (!ENCRYPTED_DATA_HASH) {
                 showFatalError("Koda şifrelenmiş veri hash'i (ENCRYPTED_DATA_HASH) eklenmemiş kanka.");
                 return;
+            }
+
+            const savedScore = localStorage.getItem("quiz_score");
+
+            if (savedScore !== null) {
+                score = parseInt(savedScore, 10);
+                scoreVal.textContent = score;
             }
 
             const savedPass = localStorage.getItem("quiz_system_pass");
