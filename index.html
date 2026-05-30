@@ -941,7 +941,7 @@
             </div>
 
             <div class="quiz-card">
-                <button id="info-btn" class="info-btn" onclick="openEAbi()" title="E-Hoca'ya Sor">
+                <button id="info-btn" class="info-btn" onclick="openEAbi()" title="Sultan Hoca'ya Sor">
                     <i class="fa-solid fa-brain"></i>
                 </button>
 
@@ -981,18 +981,18 @@
 
         <div id="e-panel" class="e-panel">
             <div class="e-panel-hdr">
-                <span class="e-panel-title"><i class="fa-solid fa-brain"></i> E-Hoca</span>
+                <span class="e-panel-title"><i class="fa-solid fa-brain"></i> Sultan Hoca</span>
                 <button class="e-close" onclick="closeEPanel()"><i class="fa-solid fa-xmark"></i></button>
             </div>
             <div class="e-body">
                 <div id="e-content" class="e-content">
                     <div class="e-placeholder">
                         <i class="fa-solid fa-circle-info"></i>
-                        Soru kartındaki beyin butonuna bas, E-Hoca anlatsın.
+                        Soru kartındaki beyin butonuna bas, Sultan Hocamız anlatsın.
                     </div>
                 </div>
                 <div class="e-chat">
-                    <input type="text" id="e-input" placeholder="E-Hoca'ya bir şey sor..."
+                    <input type="text" id="e-input" placeholder="Sultan hoca'ya bir şey sor..."
                         onkeydown="if(event.key==='Enter') sendChat()">
                     <button onclick="sendChat()"><i class="fa-solid fa-paper-plane"></i></button>
                 </div>
@@ -1226,7 +1226,7 @@
             modal.innerHTML = `
             <div class="name-modal">
                 <h3><i class="fa-solid fa-user-graduate" style="color:var(--accent)"></i> Merhaba!</h3>
-                <p>E-Hoca sana nasıl hitap etsin? Adını veya lakabını yaz, sana göre konuşsun.</p>
+                <p>Sultan Hocanın seni bilmesi gerekiyor, ismin ne? Adını veya lakabını yaz, sana göre konuşsun.</p>
                 <input type="text" id="name-input" placeholder="Adın veya lakabın..." maxlength="20" onkeydown="if(event.key==='Enter') saveName()">
                 <button class="primary-btn" onclick="saveName()"><i class="fa-solid fa-check"></i> Tamam, Başla</button>
             </div>
@@ -1248,7 +1248,7 @@
             document.getElementById("verify-btn").style.display = "none";
             document.getElementById("w-title").innerHTML = `<i class="fa-solid fa-clock-rotate-left" style="color:var(--accent)"></i> Yapay Zeka Destekli Tarih Quizi`;
             document.getElementById("w-desc").innerHTML = `
-Merhaba <strong style="color:var(--accent)">${userName}</strong>, yapay zekâ destekli AYT Tarih Quiz projesine hoş geldin. E-Hoca her soruda yanında, merak ettiğin şeyleri ona sor!
+Merhaba <strong style="color:var(--accent)">${userName}</strong>, yapay zekâ destekli AYT Tarih Quiz projesine hoş geldin. Sultan Hocan her soruda yanında, merak ettiğin şeyleri ona sor!
 <hr>
 Quiz, Mehmet Celal ÖZYILDIZ'ın AYT Tarih derslerinden ilham alınarak hazırlanmıştır.
 <a href="https://youtube.com/playlist?list=PL5w_hbb3voMlWQHPuCvg-zwnbUUUehxjT&si=cRqXxS2yokK39C5Q" target="blank">Derslere git →</a>
@@ -1317,14 +1317,33 @@ Proje Ali Bayram tarafından geliştirilmiştir :)
 
         async function fetchExplanation(q, ans) {
             const nick = getNick();
-            const sys = `Sen E-Hoca'sın — samimi, şakacı, sevecen bir AYT Tarih hocasısın. Öğrencinin adı: "${userName}". Ona "${nick}" gibi samimi hitaplarla seslen (örn. "${userName}cım", "kardeşim", "oğlum", "kızım" gibi). Konuyu anlatırken sanki etütteymiş gibi anlat: "Hani şu Koyunhisar diyorduk ya..." veya "Bunu ezberledik ya zaten, şimdi hatırla bakalım..." gibi. Önemli kavramları **kalın** yaz. Maksimum 4 kısa paragraf ya da madde, fazla uzatma. Markdown kullan.`;
+            const sys = `Senin adın "Sultan", Kadınsın, öğrencilerin sana "Sultan Hoca" der. Eşit Ağırlık 8 sınıfından "Ali" adlı öğrencin tarafından onu canlandırmak adına geliştirildin. —  Samimi, şakacı, sevecen ama bi o kadarda ciddi bir AYT Tarih hocasısın. Öğrencinin adı: "${userName}". Öğrencine "${nick}" gibi samimi hitaplarla seslen (örn. "${userName}cim/cım/cum", "oğlum", "kızım" gibi). Konuyu anlatırken sanki etütteymiş gibi anlat: "Hani şu Koyunhisar diyorduk ya..." veya "Bunu ezberledik ya zaten, şimdi hatırla bakalım..." gibi. Önemli kavramları **kalın** yaz. Maksimum 4 kısa paragraf ya da madde, fazla uzatma. Markdown kullan.
+
+"Sultan Hoca" olarak karakterin hakkında bilmen gereken şeyler:
+- Öğrencilerini aşırı çok seversin.
+- Genellikle ders anlatırken "Çocuklar", "Gençler" gibi hitaplar kullanırsın, bireyselde "oğlum" yada "kızım" kulanırsın. Örn: ("Oğlum {userName} aşağıdakilerden hangisi... demiş bize." vb)
+- "BUSMEK" isimli "Bursa Hürriyet YKS'ye Hazırlık Merkezi" olarak bilinen Belediye Dershanesinde Tarih öğretmeni olarak görev yapıyorsun.
+- 175 boyunda, siyah saçlı, açık tenli, 47 yaşında, Bekar, Diyarbakır doğumlusun ancak hayatın Bursa'da geçti.
+
+Konuşma üslubunu buna göre ayarlayarak sorulara cevap ver (Özel bilgilerini mümkünse çok paylaşmamaya dikkat et. Yaş, Boy, Kilo, Memleket, Medeni hal gibi şeyler senin özelinde kalacak.).
+
+`;
             const txt = await groqFetch([{ role: "system", content: sys }, { role: "user", content: `Soru: ${q}\nDoğru Cevap: ${ans}\nBu soruyu ve doğru cevabı ${userName}'a samimi ve eğlenceli bir şekilde anlat.` }], false);
             return txt || `Hay aksi ${getNick()}, şu an tüm hatlar dolu. Birazdan tekrar dene!`;
         }
 
         async function fetchChat(userMsg) {
             const nick = getNick();
-            const sys = `Sen "Ali Bayram" tarafından geliştirilen bir E-Hoca'sın — samimi, şakacı, sevecen bir AYT Tarih hocasısın. Öğrencinin adı: "${userName}". "${nick}" gibi samimi hitaplarla konuş. Etüt ortamı gibi sohbet et. Önemli kavramları **kalın** yaz. Markdown kullan. Güncel soruyu bağlam olarak kullan ama kullanıcı ne sorarsa cevapla.`;
+            const sys = `Senin adın "Sultan", Kadınsın, öğrencilerin sana "Sultan Hoca" der. Eşit Ağırlık 8 sınıfından "Ali" adlı öğrencin tarafından onu canlandırmak adına geliştirildin. —  Samimi, şakacı, sevecen ama bi o kadarda ciddi bir AYT Tarih hocasısın. Öğrencinin adı: "${userName}". "${nick}" gibi samimi hitaplarla konuş. Etüt ortamı gibi sohbet et. Önemli kavramları **kalın** yaz. Markdown kullan. Güncel soruyu bağlam olarak kullan ama kullanıcı ne sorarsa cevapla.
+
+"Sultan Hoca" olarak karakterin hakkında bilmen gereken şeyler:
+- Öğrencilerini aşırı çok seversin.
+- Genellikle ders anlatırken "Çocuklar", "Gençler" gibi hitaplar kullanırsın, bireyselde "oğlum" yada "kızım" kulanırsın. Örn: ("Oğlum {userName} aşağıdakilerden hangisi... demiş bize." vb)
+- "BUSMEK" isimli "Bursa Hürriyet YKS'ye Hazırlık Merkezi" olarak bilinen Belediye Dershanesinde Tarih öğretmeni olarak görev yapıyorsun.
+- 175 boyunda, siyah saçlı, açık tenli, 47 yaşında, Bekar, Diyarbakır doğumlusun ancak hayatın Bursa'da geçti.
+
+Konuşma üslubunu buna göre ayarlayarak sorulara cevap ver (Özel bilgilerini mümkünse çok paylaşmamaya dikkat et. Yaş, Boy, Kilo, Memleket, Medeni hal gibi şeyler senin özelinde kalacak.).
+`;
             const msgs = [{ role: "system", content: sys }];
             chatHistory.forEach(m => msgs.push(m));
             if (curQ) msgs.push({ role: "user", content: `[Mevcut soru: ${curQ.question} | Doğru cevap: ${curQ.answer}]` });
@@ -1425,7 +1444,7 @@ Proje Ali Bayram tarafından geliştirilmiştir :)
             if (q.cachedExplanation) {
                 eContent.innerHTML = marked.parse(q.cachedExplanation);
             } else {
-                eContent.innerHTML = `<div class="e-placeholder"><i class="fa-solid fa-brain"></i>Beyin butonuna bas, E-Hoca anlatsın.</div>`;
+                eContent.innerHTML = `<div class="e-placeholder"><i class="fa-solid fa-brain"></i>Beyin butonuna bas, Sultan Hocan anlatsın.</div>`;
             }
             if (window.innerWidth <= 900) ePanel.classList.remove("active");
             createNav(); updateNav();
@@ -1474,13 +1493,13 @@ Proje Ali Bayram tarafından geliştirilmiştir :)
             chatHistory.push({ role: "user", content: msg });
             const userBubble = `<div style="background:rgba(56,189,248,.1);border:1px solid rgba(56,189,248,.2);border-radius:10px;padding:10px 13px;margin:10px 0;font-size:13px"><strong style="color:var(--accent)">Sen:</strong> ${msg}</div>`;
             eContent.innerHTML += userBubble;
-            const thinking = `<div id="thinking-bubble" style="font-size:13px;color:var(--muted);padding:6px 0"><i class="fa-solid fa-circle-notch fa-spin" style="margin-right:6px"></i>E-Hoca düşünüyor...</div>`;
+            const thinking = `<div id="thinking-bubble" style="font-size:13px;color:var(--muted);padding:6px 0"><i class="fa-solid fa-circle-notch fa-spin" style="margin-right:6px"></i>Sultan Hoca düşünüyor...</div>`;
             eContent.innerHTML += thinking;
             eContent.scrollTop = eContent.scrollHeight;
             const reply = await fetchChat(msg);
             chatHistory.push({ role: "assistant", content: reply });
             document.getElementById("thinking-bubble")?.remove();
-            const abiBubble = `<div style="background:rgba(16,185,129,.07);border:1px solid rgba(16,185,129,.15);border-radius:10px;padding:10px 13px;margin:6px 0;font-size:13px"><strong style="color:var(--ok)">E-Hoca:</strong><br>${marked.parse(reply)}</div>`;
+            const abiBubble = `<div style="background:rgba(16,185,129,.07);border:1px solid rgba(16,185,129,.15);border-radius:10px;padding:10px 13px;margin:6px 0;font-size:13px"><strong style="color:var(--ok)">Sultan Hoca:</strong><br>${marked.parse(reply)}</div>`;
             eContent.innerHTML += abiBubble;
             eContent.scrollTop = eContent.scrollHeight;
         }
